@@ -9,7 +9,7 @@ const Navbaar = () => {
             <Toolbar>
             {/* <Box component="img" alt="My Logo" src="" /> */}
               <Typography variant='h3' color='#000'>ReCart    </Typography> 
-                <Link to='/a'>
+                <Link to='/'>
                 <Button variant='contained'>Home</Button>
                 </Link>
                 <Link to='/Add'>
