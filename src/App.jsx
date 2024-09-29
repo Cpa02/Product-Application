@@ -14,7 +14,7 @@ function App() {
     <>
     <Navbaar/>
     <Routes>
-      <Route path="/a" element={<Home/>}/>
+      <Route path="/" element={<Home/>}/>
       <Route path="/Add" element={<Add/>}/>
     </Routes>
     </>
